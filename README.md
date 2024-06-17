@@ -9,7 +9,7 @@
 <body>
     <div class="profile-container">
         <div class="profile-section">
-            <!-- 更新头像图片路径 -->
+            <https://github.com/Lyonniahih/me/assets/173061265/62983398-c911-4d11-bc35-3302cf922102路径 >
             <img src="[C:\Users\A![ea3b8bee7793b966cad9118ab65f9658](https://github.com/Lyonniahih/me/assets/173061265/62983398-c911-4d11-bc35-3302cf922102)](https://github.com/Lyonniahih/me/assets/173061265/2d3b625c-a5cd-4ce2-9e53-a4931ccc108a)
 lexandre\Desktop\ea3b8bee7793b966cad9118ab65f9658.jpg" alt="个人头像" class="profile-picture">
             <h1>梁鑫鹏</h1>
