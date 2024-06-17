@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>我的个人资料</title>
+    <我的个人资料>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
