@@ -8,17 +8,17 @@
 <body>
     <div class="profile-container">
         <div class="profile-section">
-            <img src="profile-pic.jpg" alt="个人头像" class="profile-picture">
+            <!-- 更新头像图片路径 -->
+            <img src="C:\Users\Alexandre\Desktop\ea3b8bee7793b966cad9118ab65f9658.jpg" alt="个人头像" class="profile-picture">
             <h1>梁鑫鹏</h1>
-            <p>前端开发者，热爱技术与设计。</p>
+            <p>干啥啥不行，挂科第一名。</p>
         </div>
         <div class="contact-info">
-            <h2>联系方式</h2>           
+            <h2>联系方式</h2>
             <ul>
-                <li>邮箱:3077522265@qq.com <a href="mailto:zhangsan@example.com">zhangsan@example.com</a></li>
-                <li>电话: 16621184420</li>
-                <li>LinkedIn: <a href="https://linkedin.com/in/liangxinpeng">linkedin.com/in/zhangsan</a></li>
-                <li>GitHub: <a href="https://github.com/Lyonniahih">github.com/liangxinpeng</a></li>
+                <li>电话: <a href="tel:+861374567382">+86 137 4567 382</a></li>
+                <li>邮箱: <a href="mailto:3077522265@qq.com">3077522265@qq.com</a></li>
+                <li>GitHub: <a href="https://github.com/Lyonniahih">github.com/Lyonniahih</a></li>
             </ul>
         </div>
     </div>
